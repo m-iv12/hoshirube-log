@@ -13434,9 +13434,9 @@
   "url": "https://www.youtube.com/watch?v=RlpXMgeupt0",
   "thumb": "https://i.ytimg.com/vi/RlpXMgeupt0/mqdefault.jpg?v=6adc97bd",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-10-24T11:35:54Z",
-  "end": null,
+  "end": "2026-10-24T15:56:06Z",
   "own": true
  }
 }
