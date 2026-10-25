@@ -14779,5 +14779,19 @@
   "own": true,
   "game": "オーバーウォッチ",
   "collabs": []
+ },
+ {
+  "id": "Uw1TysQAGyw",
+  "title": "【オーバーウォッチ】NIJISANJI Extreme Match #わんおぺWIN【星導ショウ/にじさんじ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-10-25T06:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=Uw1TysQAGyw",
+  "thumb": "https://i.ytimg.com/vi/Uw1TysQAGyw/mqdefault.jpg?v=6add93a7",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": true,
+  "game": "オーバーウォッチ",
+  "collabs": []
  }
 ]
