@@ -14841,5 +14841,19 @@
     "url": "https://www.youtube.com/watch?v=MJL9rVt5VKk"
    }
   ]
+ },
+ {
+  "id": "lpT9kOeK3dE",
+  "title": "【Last On Duty】ハロウィンなので珍しくホラーゲーム【星導ショウ/にじさんじ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-10-31T12:30:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=lpT9kOeK3dE",
+  "thumb": "https://i.ytimg.com/vi/lpT9kOeK3dE/mqdefault.jpg?v=6ae5d57e",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": true,
+  "game": "Last On Duty",
+  "collabs": []
  }
 ]
