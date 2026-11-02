@@ -13523,20 +13523,6 @@
   "end": "2026-11-01T13:42:19Z",
   "own": true
  },
- "LYxjEaG1P38": {
-  "id": "LYxjEaG1P38",
-  "title": "【#にじイカ祭り2026】緊急でスプラトゥーンプライベートマッチをさせていただきます【星導ショウ/にじさんじ】",
-  "description": "🐙Twitter\nhttp://twitter.com/Show_SylveSTAR\n\n🐙お問い合わせ・お手紙 etc...\nhttps://www.nijisanji.jp/contact\n\n🐙にじさんじオフィシャルストア\nhttps://shop.nijisanji.jp/s/niji/\n\n🐙にじさんじ公式Twitter\nhttps://twitter.com/nijisanji_app\n\n🐙にじさんじ公式HP\nhttps://www.nijisanji.jp/\n\n※未成年者の視聴者の方々は、下記リンク先の注意事項もご覧ください。\nhttps://www.anycolor.co.jp/notice-for-minors\n\n#にじさんじ  #星導ショウ",
-  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
-  "channel_id": "UCgZ0pH7j6c9z-pkOG3PYw1Q",
-  "url": "https://www.youtube.com/watch?v=LYxjEaG1P38",
-  "thumb": "https://i.ytimg.com/vi/LYxjEaG1P38/mqdefault.jpg?v=6ae88e10",
-  "kind": "stream",
-  "status": "live",
-  "start": "2026-11-02T13:26:29Z",
-  "end": null,
-  "own": true
- },
  "YpiN3NJjmvw": {
   "id": "YpiN3NJjmvw",
   "title": "【Silent Wounds - The Doll】人形にガチ恋してみた【星導ショウ/にじさんじ】",
@@ -13549,6 +13535,20 @@
   "status": "done",
   "start": "2026-11-02T12:31:06Z",
   "end": "2026-11-02T13:09:59Z",
+  "own": true
+ },
+ "LYxjEaG1P38": {
+  "id": "LYxjEaG1P38",
+  "title": "【#にじイカ祭り2026】緊急でスプラトゥーンプライベートマッチをさせていただきます【星導ショウ/にじさんじ】",
+  "description": "🐙Twitter\nhttp://twitter.com/Show_SylveSTAR\n\n🐙お問い合わせ・お手紙 etc...\nhttps://www.nijisanji.jp/contact\n\n🐙にじさんじオフィシャルストア\nhttps://shop.nijisanji.jp/s/niji/\n\n🐙にじさんじ公式Twitter\nhttps://twitter.com/nijisanji_app\n\n🐙にじさんじ公式HP\nhttps://www.nijisanji.jp/\n\n※未成年者の視聴者の方々は、下記リンク先の注意事項もご覧ください。\nhttps://www.anycolor.co.jp/notice-for-minors\n\n#にじさんじ  #星導ショウ",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "channel_id": "UCgZ0pH7j6c9z-pkOG3PYw1Q",
+  "url": "https://www.youtube.com/watch?v=LYxjEaG1P38",
+  "thumb": "https://i.ytimg.com/vi/LYxjEaG1P38/mqdefault.jpg?v=6ae88e10",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-02T13:26:29Z",
+  "end": null,
   "own": true
  }
 }
