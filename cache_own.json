@@ -13586,11 +13586,11 @@
   "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
   "channel_id": "UCgZ0pH7j6c9z-pkOG3PYw1Q",
   "url": "https://www.youtube.com/watch?v=Dn-7cu0b9Qo",
-  "thumb": "https://i.ytimg.com/vi/Dn-7cu0b9Qo/mqdefault.jpg?v=6aeebff8",
+  "thumb": "https://i.ytimg.com/vi/Dn-7cu0b9Qo/mqdefault.jpg",
   "kind": "stream",
-  "status": "live",
+  "status": "done",
   "start": "2026-11-07T06:15:50Z",
-  "end": null,
+  "end": "2026-11-07T09:07:54Z",
   "own": true
  }
 }
