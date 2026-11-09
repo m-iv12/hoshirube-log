@@ -14939,5 +14939,19 @@
   "own": true,
   "game": "にじイカ祭り2026",
   "collabs": []
+ },
+ {
+  "id": "-DPWlc-1J4E",
+  "title": "【呪ショッピング】通販でお買い物をします【星導ショウ/にじさんじ】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-09T12:31:09Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=-DPWlc-1J4E",
+  "thumb": "https://i.ytimg.com/vi/-DPWlc-1J4E/mqdefault.jpg?v=6af1af70",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": true,
+  "game": "呪ショッピング",
+  "collabs": []
  }
 ]
