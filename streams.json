@@ -14953,5 +14953,19 @@
   "own": true,
   "game": "呪ショッピング",
   "collabs": []
+ },
+ {
+  "id": "XH0jKTp73ZQ",
+  "title": "【Cursed Companions】わんおぺ二次会【星導ショウ/にじさんじ】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-10T12:06:04Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=XH0jKTp73ZQ",
+  "thumb": "https://i.ytimg.com/vi/XH0jKTp73ZQ/mqdefault.jpg?v=6af303f5",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": true,
+  "game": "Cursed Companions",
+  "collabs": []
  }
 ]
