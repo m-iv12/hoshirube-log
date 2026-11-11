@@ -13630,9 +13630,9 @@
   "url": "https://www.youtube.com/watch?v=e692y7wMmb8",
   "thumb": "https://i.ytimg.com/vi/e692y7wMmb8/mqdefault.jpg?v=6af455ab",
   "kind": "stream",
-  "status": "upcoming",
-  "start": "2026-11-11T12:30:00Z",
-  "end": null,
+  "status": "done",
+  "start": "2026-11-11T12:31:21Z",
+  "end": "2026-11-11T13:47:08Z",
   "own": true
  }
 }
