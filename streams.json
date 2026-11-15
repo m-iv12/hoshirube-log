@@ -14995,5 +14995,19 @@
   "own": true,
   "game": "Potato Please",
   "collabs": []
+ },
+ {
+  "id": "krklz8u2w0c",
+  "title": "【CH13: Rest Stop】不穏な森でドライブをします【星導ショウ/にじさんじ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-15T12:30:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=krklz8u2w0c",
+  "thumb": "https://i.ytimg.com/vi/krklz8u2w0c/mqdefault.jpg?v=6af99bcf",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": true,
+  "game": "CH13: Rest Stop",
+  "collabs": []
  }
 ]
