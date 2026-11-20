@@ -15023,5 +15023,33 @@
   "own": true,
   "game": "地獄怨根",
   "collabs": []
+ },
+ {
+  "id": "1bdF-_y7Zgw",
+  "title": "【#メガ割でお得に美活】秋のメガ割がやってきた！！【星導ショウ/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-11-20T13:33:21Z",
+  "end": "2026-11-20T14:01:35Z",
+  "url": "https://www.youtube.com/watch?v=1bdF-_y7Zgw",
+  "thumb": "https://i.ytimg.com/vi/1bdF-_y7Zgw/mqdefault.jpg",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": true,
+  "game": "メガ割でお得に美活",
+  "collabs": []
+ },
+ {
+  "id": "M3mk9QNIh3Q",
+  "title": "【#メガ割でお得に美活】秋のメガ割がやってきた！！【星導ショウ/にじさんじ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-20T14:25:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=M3mk9QNIh3Q",
+  "thumb": "https://i.ytimg.com/vi/M3mk9QNIh3Q/mqdefault.jpg?v=6b0053cc",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": true,
+  "game": "メガ割でお得に美活",
+  "collabs": []
  }
 ]
