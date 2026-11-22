@@ -15065,5 +15065,19 @@
   "own": true,
   "game": "Midnight Rest Stop | 深夜ドライブイン",
   "collabs": []
+ },
+ {
+  "id": "JPWJJr0O7N8",
+  "title": "【APEX】#ぶいすぽGG チーム18顔合わせ【星導ショウ/にじさんじ】",
+  "kind": "stream",
+  "status": "done",
+  "start": "2026-11-22T09:30:32Z",
+  "end": "2026-11-22T13:49:22Z",
+  "url": "https://www.youtube.com/watch?v=JPWJJr0O7N8",
+  "thumb": "https://i.ytimg.com/vi/JPWJJr0O7N8/mqdefault.jpg",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": true,
+  "game": "APEX",
+  "collabs": []
  }
 ]
