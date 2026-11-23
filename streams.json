@@ -15079,5 +15079,19 @@
   "own": true,
   "game": "APEX",
   "collabs": []
+ },
+ {
+  "id": "XA6lripph_g",
+  "title": "【APEX】#ぶいすぽGG の時間です【星導ショウ/にじさんじ】",
+  "kind": "stream",
+  "status": "live",
+  "start": "2026-11-23T10:03:09Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=XA6lripph_g",
+  "thumb": "https://i.ytimg.com/vi/XA6lripph_g/mqdefault.jpg?v=6b0409db",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": true,
+  "game": "APEX",
+  "collabs": []
  }
 ]
