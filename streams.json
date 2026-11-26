@@ -15107,5 +15107,19 @@
   "own": true,
   "game": "星導ショウ/にじさんじ",
   "collabs": []
+ },
+ {
+  "id": "hKklqybt5YM",
+  "title": "【にじさんじDAYZ : ONE LIFE】死んだら即終了【星導ショウ/にじさんじ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-26T11:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=hKklqybt5YM",
+  "thumb": "https://i.ytimg.com/vi/hKklqybt5YM/mqdefault.jpg?v=6b08062e",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": true,
+  "game": "にじさんじDAYZ : ONE LIFE",
+  "collabs": []
  }
 ]
