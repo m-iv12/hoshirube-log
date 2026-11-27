@@ -15121,5 +15121,19 @@
   "own": true,
   "game": "にじさんじDAYZ : ONE LIFE",
   "collabs": []
+ },
+ {
+  "id": "ZfmBJnEC4Q0",
+  "title": "【ハイシン -Haishin-】部屋紹介します【星導ショウ/にじさんじ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-27T12:30:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=ZfmBJnEC4Q0",
+  "thumb": "https://i.ytimg.com/vi/ZfmBJnEC4Q0/mqdefault.jpg?v=6b096c0e",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": true,
+  "game": "ハイシン -Haishin-",
+  "collabs": []
  }
 ]
