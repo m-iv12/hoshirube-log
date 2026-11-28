@@ -15135,5 +15135,19 @@
   "own": true,
   "game": "ハイシン -Haishin-",
   "collabs": []
+ },
+ {
+  "id": "XXW_rN5Br60",
+  "title": "【カサネメ様】怪異を観測せよ【星導ショウ/にじさんじ】",
+  "kind": "stream",
+  "status": "upcoming",
+  "start": "2026-11-28T13:00:00Z",
+  "end": null,
+  "url": "https://www.youtube.com/watch?v=XXW_rN5Br60",
+  "thumb": "https://i.ytimg.com/vi/XXW_rN5Br60/mqdefault.jpg?v=6b0ac2bd",
+  "channel": "星導ショウ / Hoshirube Sho【にじさんじ】",
+  "own": true,
+  "game": "カサネメ様",
+  "collabs": []
  }
 ]
